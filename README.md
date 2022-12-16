@@ -127,3 +127,4 @@ Do not forget to `make build` and `kubectl cp` after each change
 
 See the [jx-preview command reference](https://github.com/jenkins-x-plugins/jx-preview/blob/master/docs/cmd/jx-preview.md)
 
+Have fun!
